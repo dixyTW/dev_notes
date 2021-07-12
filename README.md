@@ -41,4 +41,14 @@ Create requirement.txt file: `pip freeze > requirements.txt`
 
 ## Linux
 
+### Navigation:
+Move cursor to start of line or end of line
+<kbd>CTRL</kbd>+<kbd>A or E</kbd>
+Move cursor by word 
+<kbd>Option</kbd>+<kbd>←</kbd> or <kbd>→</kbd>
+Autocomplete
+<kbd>Tab</kbd>
+
+
+
 ## MySQL
